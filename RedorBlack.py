@@ -3,6 +3,7 @@ Created on 13 Oct 2015
 
 @author: hsbest12
 '''
+#Hello GitHUB
 import time
 import random
 
